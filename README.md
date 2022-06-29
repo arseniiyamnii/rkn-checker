@@ -17,3 +17,4 @@ Variables explanation:
  * `THREADS_N` number of threads
  * `RETRY_TIMES` how much TimeS, script retry connect to domain, before mark that domain as banned
  * `REQUEST_TIMEOUT` how much Time request wait for domain answer, before mark that domain as banned
+ * `TIME_RECHECK` delay in seconds for rechecking domains list
